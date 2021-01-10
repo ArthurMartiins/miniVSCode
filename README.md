@@ -1,1 +1,1 @@
-# miniVSCode
+# MiniVSCode
